@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["compact","Accumulator of `(key, val, wgt)` triples based on sorting and run-length encoding."],["least_upper_bound",""],["lookup",""],["trace",""]]});

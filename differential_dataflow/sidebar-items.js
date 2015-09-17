@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["collection","A time-varying multiset of records."],["operators","Timely dataflow operators specific to differential dataflow."]],"trait":[["Data","A composite trait for data types usable in differential dataflow."]],"type":[["Collection","A stream of updates to record counts."],["Delta","A change in count."]]});
